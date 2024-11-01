@@ -40,7 +40,7 @@ python -m venv venv
 source venv/bin/activate              venv\Scripts\activate
 
 # Instale as dependências
-pip install -r requirements.txt
+pip install cryptography
 ```
 
 
